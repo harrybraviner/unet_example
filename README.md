@@ -1,8 +1,6 @@
 # Plan
-* Load an 'A' glyph into a numpy array.
-* Manipulate the glyph in rotations.
-* Impose the glyph on a background of noise.
-* Be able to view the resulting images.
+* Write a function to generate a large number of training and test cases and serialise these out as a file.
+* Read these back in and write a convolutional net (non-UNet) and see how it performs on these.
 * Write a U-net to pick out the A (bounding box or the 'A' itself?)
 
 # Resources
